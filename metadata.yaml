@@ -1,0 +1,30 @@
+_repo: Guy-and-Pauline_39556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39556-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Anthony Edward Montagu Compton
+    - Mackenzie, Compton, Sir
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Guy and Pauline
+url: http://www.gutenberg.org/ebooks/39556
